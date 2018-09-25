@@ -4,7 +4,9 @@ next: docs/persistence.md
 
 # Serverless Deployment
 
-Serverless computing is a model which aims to abstract server management without concerns for implementing, tweaking, or scaling a server (at least, to the perspective of a user). The follow sections will provide examples on how to deploy your application to service that will run on-demand as a Function as a Service(FaaS).
+Serverless computing is a model which aims to abstract server management without concerns for implementing, tweaking, or scaling a server (at least, to the perspective of a user). The following sections will provide examples on how to deploy your application to service that will run on-demand as a Function as a Service(FaaS).
+
+To learn more about other FaaS offerings and the concept of serverless, check out the [comparisons and case studies](https://serverless.com/learn/overview) created by the Serverless Framework.
 
 > Deploying to FaaS provider will require you to first [create a GitHub App](#create-the-github-app)
 
